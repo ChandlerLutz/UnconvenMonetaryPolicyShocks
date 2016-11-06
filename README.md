@@ -1,4 +1,4 @@
-# UnconvenMonetaryPolicyShocks
+# Data: Unconventional Monetary Policy Shocks
 
 Event Study Data measuring unconventional monetary policy shocks 
 from Lutz (2015):
