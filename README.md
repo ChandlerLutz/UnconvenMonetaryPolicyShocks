@@ -4,7 +4,7 @@ Event Study Data measuring unconventional monetary policy shocks
 from Lutz (2015):
 
 Lutz, Chandler. "The impact of conventional and unconventional
-monetary policy on investor sentiment." Journal of Banking & Finance
+monetary policy on investor sentiment." *Journal of Banking & Finance*
 61 (2015): 89-105.
 
 See http://dx.doi.org/10.1016/j.jbankfin.2015.08.019
