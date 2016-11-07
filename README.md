@@ -9,7 +9,10 @@ monetary policy on investor sentiment." *Journal of Banking & Finance*
 
 See http://dx.doi.org/10.1016/j.jbankfin.2015.08.019
 
+See https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2363938
+
 See http://chandlerlutz.com 
+
 
 # Data Description 
 
